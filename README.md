@@ -1,3 +1,3 @@
 #Hello
 
-Thanks for checking
+Thanks for checking.
